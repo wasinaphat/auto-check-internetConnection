@@ -1,8 +1,9 @@
 package main
 
 import (
-	"github.com/wasinapl/bookstore_users-api/app"
 	"fmt"
+
+	"github.com/wasinapl/auto-check-internetConnection/app"
 )
 func main(){
 		app.StartApplication()
