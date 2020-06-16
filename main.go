@@ -7,5 +7,5 @@ import (
 )
 func main(){
 		app.StartApplication()
-		fmt.Println("SERVER IS STARTED")
+		fmt.Println("SERVER IS STOP")
 }
